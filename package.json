@@ -1,0 +1,40 @@
+{
+  "name": "classify-by",
+  "version": "0.0.0",
+  "description": "Classify an array by property and callback function.",
+  "license": "MIT",
+  "repository": "egoist/classify-by",
+  "author": {
+    "name": "EGOIST",
+    "email": "0x142857@gmail.com",
+    "url": "github.com/egoist"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "classify"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.10.0",
+    "xo": "^0.12.1"
+  },
+  "xo": {
+    "semicolon": false
+  },
+  "testen": {
+    "node": [
+      "0.10.32",
+      "0.12.0",
+      "4.2.4",
+      "5.6.0"
+    ]
+  }
+}
