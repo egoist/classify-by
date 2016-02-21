@@ -1,6 +1,6 @@
 {
   "name": "classify-by",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Classify an array by property and callback function.",
   "license": "MIT",
   "repository": "egoist/classify-by",
